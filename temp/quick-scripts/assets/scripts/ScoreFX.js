@@ -2,7 +2,7 @@
 cc._RF.push(module, 'd5948gbd1ZH0KF5O541L95k', 'ScoreFX', __filename);
 // scripts/ScoreFX.js
 
-'use strict';
+"use strict";
 
 cc.Class({
     extends: cc.Component,
@@ -16,7 +16,6 @@ cc.Class({
 
     init: function init(game) {
         this.game = game;
-        this.anim.getComponent('an').init(this);
     },
     despawn: function despawn() {
         this.game.despawnScoreFX(this.node);

@@ -500,12 +500,12 @@
     "relativePath": "textures/star.png"
   },
   "bc56457e-d2cd-4c3d-bd73-7d5c9553a2d0": {
-    "asset": 1584084601151,
-    "meta": 1584084601162,
+    "asset": 1585132210496,
+    "meta": 1585132210509,
     "relativePath": "scene/game.fire"
   },
   "cb770bbf-a33d-4983-9e70-d57624a7cf44": {
-    "asset": 1583922662194,
+    "asset": 1585129841596,
     "meta": 1583462186191,
     "relativePath": "scripts"
   },
@@ -514,14 +514,9 @@
     "meta": 1584093527280,
     "relativePath": "star.prefab"
   },
-  "b7312707-33ac-4782-90a4-a8842c8aab18": {
-    "asset": 1583747884098,
-    "meta": 1583747892551,
-    "relativePath": "scripts/Star.js"
-  },
   "ff099a18-7f1f-43d9-a27b-adbe8ef5a4dc": {
-    "asset": 1583826507565,
-    "meta": 1583826507570,
+    "asset": 1585135646728,
+    "meta": 1585135646735,
     "relativePath": "scene/start.fire"
   },
   "528eacb2-90a5-4989-a5aa-f24de5661fb3": {
@@ -533,11 +528,6 @@
     "asset": 1583821677589,
     "meta": 1583821725176,
     "relativePath": "scripts/Start.js"
-  },
-  "5b64385b-4314-43b8-9b46-aff205e008d7": {
-    "asset": 1583911412727,
-    "meta": 1583911414480,
-    "relativePath": "scripts/Player.js"
   },
   "32f173c5-4f12-4ea6-ab1b-0542510a473a": {
     "asset": 1583911575605,
@@ -575,23 +565,33 @@
     "relativePath": "textures/fx/fx_coinxiaosh_05.png"
   },
   "95b3e0c6-32c4-4e6d-b0a6-8b4652fc8426": {
-    "asset": 1583923627876,
-    "meta": 1583923627881,
+    "asset": 1585128672818,
+    "meta": 1585128672822,
     "relativePath": "test.anim"
   },
   "d8bdf107-e27b-4ee9-9908-63b53cd9ffd4": {
-    "asset": 1584089382987,
-    "meta": 1584089383002,
-    "relativePath": "test.prefab"
+    "asset": 1585128815190,
+    "meta": 1585128815195,
+    "relativePath": "scoreFX.prefab"
   },
-  "d594881b-7756-47d0-a179-3b9e352fde64": {
-    "asset": 1584092689650,
-    "meta": 1584092696204,
-    "relativePath": "scripts/ScoreFX.js"
+  "b7312707-33ac-4782-90a4-a8842c8aab18": {
+    "asset": 1585125885561,
+    "meta": 1585125913363,
+    "relativePath": "scripts/Star.js"
+  },
+  "5b64385b-4314-43b8-9b46-aff205e008d7": {
+    "asset": 1585133332368,
+    "meta": 1585134868294,
+    "relativePath": "scripts/Player.js"
   },
   "dfd50b77-c9ed-4166-9555-619fac8c0826": {
-    "asset": 1584093623464,
-    "meta": 1584093624399,
+    "asset": 1585134958954,
+    "meta": 1585135101831,
     "relativePath": "scripts/Game.js"
+  },
+  "d594881b-7756-47d0-a179-3b9e352fde64": {
+    "asset": 1585135178332,
+    "meta": 1585135229107,
+    "relativePath": "scripts/ScoreFX.js"
   }
 }

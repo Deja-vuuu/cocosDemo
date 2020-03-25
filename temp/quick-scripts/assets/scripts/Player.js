@@ -60,13 +60,9 @@ cc.Class({
         // 添加一个回调函数，用于在动作结束时调用我们定义的其他方法
         var callback = cc.callFunc(this.playJumpSound, this);
         //加入形变,更细腻的动画表现
-
         //压瘪
-
         var squash = cc.scaleTo(this.squashDuration, 1, 0.6);
-
         //拉升
-
         var stretch = cc.scaleTo(this.squashDuration, 1, 1.2);
 
         //恢复正常

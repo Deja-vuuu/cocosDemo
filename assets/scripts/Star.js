@@ -30,7 +30,8 @@ cc.Class({
         this.game.spawnNewStar();
         this.node.destroy();
         // 得分
-        this.game.gainScore();
+        let pos = this.node.getPosition();
+        this.game.gainScore(pos);
     },
 
 

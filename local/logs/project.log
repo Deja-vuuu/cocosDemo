@@ -1,78 +1,333 @@
-2020-03-13T07:15:23.084Z - normal: Load ~/.CocosCreator/settings.json
-2020-03-13T07:15:23.125Z - normal: Initializing Asset Database
-2020-03-13T07:15:23.128Z - normal: checking language setting...
-2020-03-13T07:15:23.128Z - normal: Language: zh
-2020-03-13T07:15:23.505Z - success: preview server running at http://localhost:7456
-2020-03-13T07:15:23.522Z - success: protocol editor-framework registered
-2020-03-13T07:15:23.522Z - success: protocol app registered
-2020-03-13T07:15:23.522Z - success: protocol theme registered
-2020-03-13T07:15:23.522Z - success: protocol packages registered
-2020-03-13T07:15:23.522Z - success: protocol uuid registerred
-2020-03-13T07:15:23.522Z - success: protocol db registerred
-2020-03-13T07:15:23.522Z - success: protocol thumbnail registerred
-2020-03-13T07:15:23.522Z - success: protocol unpack registerred
-2020-03-13T07:15:23.522Z - success: protocol disable-commonjs registerred
-2020-03-13T07:15:23.597Z - normal: connected!
-2020-03-13T07:15:23.598Z - normal: Check project /Users/mr.yang/Downloads/start_project
-2020-03-13T07:15:23.599Z - normal: Initializing project /Users/mr.yang/Downloads/start_project
-2020-03-13T07:15:23.619Z - success: adapters loaded
-2020-03-13T07:15:23.623Z - success: asset-db-debugger loaded
-2020-03-13T07:15:23.688Z - success: fb-audience-network loaded
-2020-03-13T07:15:23.714Z - success: fb-live-stream loaded
-2020-03-13T07:15:23.716Z - success: google-play-instant loaded
-2020-03-13T07:15:23.720Z - success: huawei-runtime loaded
-2020-03-13T07:15:23.721Z - success: jkw-adapter loaded
-2020-03-13T07:15:23.722Z - success: jsb-adapter loaded
-2020-03-13T07:15:23.725Z - success: oppo-runtime loaded
-2020-03-13T07:15:23.729Z - success: package-manager loaded
-2020-03-13T07:15:23.730Z - success: qtt-adapter loaded
-2020-03-13T07:15:23.732Z - success: runtime-dev-tools loaded
-2020-03-13T07:15:23.738Z - success: sdkbox loaded
-2020-03-13T07:15:23.742Z - success: ui-kit-preview-extra loaded
-2020-03-13T07:15:23.745Z - success: ui-kit-preview loaded
-2020-03-13T07:15:23.748Z - success: vivo-runtime loaded
-2020-03-13T07:15:23.751Z - success: alipay-minigame loaded
-2020-03-13T07:15:23.807Z - success: assets loaded
-2020-03-13T07:15:23.809Z - success: baidugame-opendata loaded
-2020-03-13T07:15:23.811Z - success: baidugame loaded
-2020-03-13T07:15:23.816Z - success: builder loaded
-2020-03-13T07:15:23.951Z - success: cocos-services loaded
-2020-03-13T07:15:23.956Z - success: console loaded
-2020-03-13T07:15:23.966Z - success: fb-instant-games loaded
-2020-03-13T07:15:23.971Z - success: game-window loaded
-2020-03-13T07:15:23.972Z - success: google-instant-games loaded
-2020-03-13T07:15:23.976Z - success: hierarchy loaded
-2020-03-13T07:15:23.980Z - success: inspector loaded
-2020-03-13T07:15:24.241Z - success: cpk-publish loaded
-2020-03-13T07:15:24.247Z - success: keystore loaded
-2020-03-13T07:15:24.259Z - success: node-library loaded
-2020-03-13T07:15:24.263Z - success: open-recent-items loaded
-2020-03-13T07:15:24.273Z - success: package-asset loaded
-2020-03-13T07:15:24.274Z - success: preferences loaded
-2020-03-13T07:15:24.278Z - success: project-exporter loaded
-2020-03-13T07:15:24.283Z - success: project-importer loaded
-2020-03-13T07:15:24.287Z - success: project-settings loaded
-2020-03-13T07:15:24.300Z - success: qtt-runtime loaded
-2020-03-13T07:15:24.304Z - success: scene loaded
-2020-03-13T07:15:24.305Z - success: simulator-debugger loaded
-2020-03-13T07:15:24.307Z - success: sprite-editor loaded
-2020-03-13T07:15:24.310Z - success: store loaded
-2020-03-13T07:15:24.315Z - success: timeline loaded
-2020-03-13T07:15:24.317Z - success: wechatgame-opendata loaded
-2020-03-13T07:15:24.337Z - success: wechatgame loaded
-2020-03-13T07:15:24.340Z - success: xiaomi-runtime loaded
-2020-03-13T07:15:25.151Z - info: Cocos Service load base data!
-2020-03-13T07:15:25.314Z - normal: Initializing Cocos2d
-2020-03-13T07:15:25.605Z - normal: Initializing engine extends
-2020-03-13T07:15:29.091Z - normal: Loading packages
-2020-03-13T07:15:29.096Z - normal: Watching packages
-2020-03-13T07:15:29.192Z - normal: Run Application
-2020-03-13T07:29:59.606Z - info: 只有预制节点 "test" 及其子节点会被保存。
-2020-03-13T09:50:12.738Z - info: 只有预制节点 "star" 及其子节点会被保存。
-2020-03-13T09:50:48.710Z - info: 只有预制节点 "star" 及其子节点会被保存。
-2020-03-13T09:56:40.826Z - info: 只有预制节点 "star" 及其子节点会被保存。
-2020-03-13T09:56:52.089Z - info: 只有预制节点 "star" 及其子节点会被保存。
-2020-03-13T09:57:01.020Z - info: 只有预制节点 "star" 及其子节点会被保存。
-2020-03-13T09:58:01.731Z - info: 只有预制节点 "star" 及其子节点会被保存。
-2020-03-13T09:58:32.317Z - info: 只有预制节点 "star" 及其子节点会被保存。
-2020-03-13T09:58:47.269Z - info: 只有预制节点 "star" 及其子节点会被保存。
+2020-03-25T10:29:02.076Z - normal: Load ~/.CocosCreator/settings.json
+2020-03-25T10:29:02.130Z - normal: Initializing Asset Database
+2020-03-25T10:29:02.134Z - normal: checking language setting...
+2020-03-25T10:29:02.134Z - normal: Language: zh
+2020-03-25T10:29:02.540Z - success: preview server running at http://localhost:7456
+2020-03-25T10:29:02.558Z - success: protocol editor-framework registered
+2020-03-25T10:29:02.558Z - success: protocol app registered
+2020-03-25T10:29:02.558Z - success: protocol theme registered
+2020-03-25T10:29:02.558Z - success: protocol packages registered
+2020-03-25T10:29:02.558Z - success: protocol uuid registerred
+2020-03-25T10:29:02.558Z - success: protocol db registerred
+2020-03-25T10:29:02.558Z - success: protocol thumbnail registerred
+2020-03-25T10:29:02.559Z - success: protocol unpack registerred
+2020-03-25T10:29:02.559Z - success: protocol disable-commonjs registerred
+2020-03-25T10:29:02.631Z - normal: connected!
+2020-03-25T10:29:02.632Z - normal: Check project /Users/mr.yang/Downloads/start_project
+2020-03-25T10:29:02.634Z - normal: Initializing project /Users/mr.yang/Downloads/start_project
+2020-03-25T10:29:02.651Z - success: adapters loaded
+2020-03-25T10:29:02.656Z - success: asset-db-debugger loaded
+2020-03-25T10:29:02.721Z - success: fb-audience-network loaded
+2020-03-25T10:29:02.750Z - success: fb-live-stream loaded
+2020-03-25T10:29:02.753Z - success: google-play-instant loaded
+2020-03-25T10:29:02.759Z - success: huawei-runtime loaded
+2020-03-25T10:29:02.760Z - success: jkw-adapter loaded
+2020-03-25T10:29:02.761Z - success: jsb-adapter loaded
+2020-03-25T10:29:02.766Z - success: oppo-runtime loaded
+2020-03-25T10:29:02.771Z - success: package-manager loaded
+2020-03-25T10:29:02.772Z - success: qtt-adapter loaded
+2020-03-25T10:29:02.774Z - success: runtime-dev-tools loaded
+2020-03-25T10:29:02.781Z - success: sdkbox loaded
+2020-03-25T10:29:02.785Z - success: ui-kit-preview-extra loaded
+2020-03-25T10:29:02.789Z - success: ui-kit-preview loaded
+2020-03-25T10:29:02.794Z - success: vivo-runtime loaded
+2020-03-25T10:29:02.796Z - success: alipay-minigame loaded
+2020-03-25T10:29:02.847Z - success: assets loaded
+2020-03-25T10:29:02.849Z - success: baidugame-opendata loaded
+2020-03-25T10:29:02.851Z - success: baidugame loaded
+2020-03-25T10:29:02.855Z - success: builder loaded
+2020-03-25T10:29:02.999Z - success: cocos-services loaded
+2020-03-25T10:29:03.004Z - success: console loaded
+2020-03-25T10:29:03.015Z - success: fb-instant-games loaded
+2020-03-25T10:29:03.019Z - success: game-window loaded
+2020-03-25T10:29:03.020Z - success: google-instant-games loaded
+2020-03-25T10:29:03.024Z - success: hierarchy loaded
+2020-03-25T10:29:03.029Z - success: inspector loaded
+2020-03-25T10:29:03.337Z - success: cpk-publish loaded
+2020-03-25T10:29:03.345Z - success: keystore loaded
+2020-03-25T10:29:03.355Z - success: node-library loaded
+2020-03-25T10:29:03.359Z - success: open-recent-items loaded
+2020-03-25T10:29:03.368Z - success: package-asset loaded
+2020-03-25T10:29:03.369Z - success: preferences loaded
+2020-03-25T10:29:03.372Z - success: project-exporter loaded
+2020-03-25T10:29:03.377Z - success: project-importer loaded
+2020-03-25T10:29:03.381Z - success: project-settings loaded
+2020-03-25T10:29:03.393Z - success: qtt-runtime loaded
+2020-03-25T10:29:03.398Z - success: scene loaded
+2020-03-25T10:29:03.399Z - success: simulator-debugger loaded
+2020-03-25T10:29:03.400Z - success: sprite-editor loaded
+2020-03-25T10:29:03.404Z - success: store loaded
+2020-03-25T10:29:03.422Z - success: timeline loaded
+2020-03-25T10:29:03.425Z - success: wechatgame-opendata loaded
+2020-03-25T10:29:03.429Z - success: wechatgame loaded
+2020-03-25T10:29:03.434Z - success: xiaomi-runtime loaded
+2020-03-25T10:29:04.468Z - info: Cocos Service load base data!
+2020-03-25T10:29:04.617Z - normal: Initializing Cocos2d
+2020-03-25T10:29:04.982Z - normal: Initializing engine extends
+2020-03-25T10:29:05.502Z - normal: Loading packages
+2020-03-25T10:29:05.506Z - normal: Watching packages
+2020-03-25T10:29:05.589Z - normal: Run Application
+2020-03-25T11:20:56.790Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/mr.yang/Downloads/start_project/build",
+  "debug": false,
+  "dest": "/Users/mr.yang/Downloads/start_project/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Geom Utils",
+    "3D",
+    "3D Primitive"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "bc56457e-d2cd-4c3d-bd73-7d5c9553a2d0",
+    "ff099a18-7f1f-43d9-a27b-adbe8ef5a4dc"
+  ],
+  "sourceMaps": false,
+  "startScene": "bc56457e-d2cd-4c3d-bd73-7d5c9553a2d0",
+  "template": "link",
+  "title": "start_project",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "2a226ab3-367f-43",
+  "zipCompressJs": true,
+  "project": "/Users/mr.yang/Downloads/start_project",
+  "projectName": "start_project",
+  "debugBuildWorker": false
+}
+2020-03-25T11:20:56.791Z - normal: Building /Users/mr.yang/Downloads/start_project
+2020-03-25T11:20:56.791Z - normal: Destination /Users/mr.yang/Downloads/start_project/build/web-desktop
+2020-03-25T11:20:56.861Z - normal: Delete /Users/mr.yang/Downloads/start_project/build/web-desktop/subpackages/**/*,/Users/mr.yang/Downloads/start_project/build/web-desktop/**/*
+2020-03-25T11:21:31.686Z - normal: Start building assets
+2020-03-25T11:21:31.686Z - normal: Start spawn build-worker
+2020-03-25T11:21:32.192Z - normal: Finish spawn build-worker
+2020-03-25T11:21:32.192Z - normal: Start init build-worker
+2020-03-25T11:21:34.067Z - normal: Finish init build-worker
+2020-03-25T11:21:34.067Z - normal: Start build-assets in worker
+2020-03-25T11:21:34.362Z - normal: Finish build-assets in worker
+2020-03-25T11:21:34.364Z - normal: Finish building assets
+2020-03-25T11:21:34.376Z - normal: Start building plugin scripts
+2020-03-25T11:21:34.411Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2020-03-25T11:21:34.417Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2020-03-25T11:21:34.428Z - normal: Built to "/Users/mr.yang/Downloads/start_project/build/web-desktop" successfully
+2020-03-25T11:24:39.624Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:8507)
+    at EventEmitter.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-03-25T11:25:03.938Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/mr.yang/Downloads/start_project/build",
+  "debug": false,
+  "dest": "/Users/mr.yang/Downloads/start_project/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Geom Utils",
+    "3D",
+    "3D Primitive"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "ff099a18-7f1f-43d9-a27b-adbe8ef5a4dc",
+    "bc56457e-d2cd-4c3d-bd73-7d5c9553a2d0"
+  ],
+  "sourceMaps": false,
+  "startScene": "ff099a18-7f1f-43d9-a27b-adbe8ef5a4dc",
+  "template": "link",
+  "title": "start_project",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "2a226ab3-367f-43",
+  "zipCompressJs": true,
+  "project": "/Users/mr.yang/Downloads/start_project",
+  "projectName": "start_project",
+  "debugBuildWorker": false
+}
+2020-03-25T11:25:03.938Z - normal: Building /Users/mr.yang/Downloads/start_project
+2020-03-25T11:25:03.938Z - normal: Destination /Users/mr.yang/Downloads/start_project/build/web-desktop
+2020-03-25T11:25:03.939Z - normal: Delete /Users/mr.yang/Downloads/start_project/build/web-desktop/subpackages/**/*,/Users/mr.yang/Downloads/start_project/build/web-desktop/**/*
+2020-03-25T11:25:05.191Z - normal: Start building assets
+2020-03-25T11:25:05.191Z - normal: Start spawn build-worker
+2020-03-25T11:25:05.701Z - normal: Finish spawn build-worker
+2020-03-25T11:25:05.701Z - normal: Start init build-worker
+2020-03-25T11:25:07.522Z - normal: Finish init build-worker
+2020-03-25T11:25:07.522Z - normal: Start build-assets in worker
+2020-03-25T11:25:07.799Z - normal: Finish build-assets in worker
+2020-03-25T11:25:07.801Z - normal: Finish building assets
+2020-03-25T11:25:07.816Z - normal: Start building plugin scripts
+2020-03-25T11:25:07.851Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2020-03-25T11:25:07.857Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2020-03-25T11:25:07.865Z - normal: Built to "/Users/mr.yang/Downloads/start_project/build/web-desktop" successfully
+2020-03-25T11:27:14.265Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:8507)
+    at EventEmitter.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-03-25T11:27:20.636Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at eval (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:8507)
+    at EventEmitter.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)
+2020-03-25T11:27:38.575Z - normal: Start building with options : {
+  "actualPlatform": "web-desktop",
+  "android": {
+    "packageName": ""
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/mr.yang/Downloads/start_project/build",
+  "debug": false,
+  "dest": "/Users/mr.yang/Downloads/start_project/build/web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Geom Utils",
+    "3D",
+    "3D Primitive"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "packageName": ""
+  },
+  "mac": {
+    "packageName": ""
+  },
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "ff099a18-7f1f-43d9-a27b-adbe8ef5a4dc",
+    "bc56457e-d2cd-4c3d-bd73-7d5c9553a2d0"
+  ],
+  "sourceMaps": false,
+  "startScene": "ff099a18-7f1f-43d9-a27b-adbe8ef5a4dc",
+  "template": "link",
+  "title": "yuanyuan",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "2a226ab3-367f-43",
+  "zipCompressJs": true,
+  "project": "/Users/mr.yang/Downloads/start_project",
+  "projectName": "yuanyuan",
+  "debugBuildWorker": false
+}
+2020-03-25T11:27:38.576Z - normal: Building /Users/mr.yang/Downloads/start_project
+2020-03-25T11:27:38.576Z - normal: Destination /Users/mr.yang/Downloads/start_project/build/web-desktop
+2020-03-25T11:27:38.576Z - normal: Delete /Users/mr.yang/Downloads/start_project/build/web-desktop/subpackages/**/*,/Users/mr.yang/Downloads/start_project/build/web-desktop/**/*
+2020-03-25T11:27:39.967Z - normal: Start building assets
+2020-03-25T11:27:39.967Z - normal: Start spawn build-worker
+2020-03-25T11:27:40.502Z - normal: Finish spawn build-worker
+2020-03-25T11:27:40.502Z - normal: Start init build-worker
+2020-03-25T11:27:42.454Z - normal: Finish init build-worker
+2020-03-25T11:27:42.454Z - normal: Start build-assets in worker
+2020-03-25T11:27:42.763Z - normal: Finish build-assets in worker
+2020-03-25T11:27:42.766Z - normal: Finish building assets
+2020-03-25T11:27:42.775Z - normal: Start building plugin scripts
+2020-03-25T11:27:42.815Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2020-03-25T11:27:42.820Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-desktop/template/index.html
+2020-03-25T11:27:42.829Z - normal: Built to "/Users/mr.yang/Downloads/start_project/build/web-desktop" successfully

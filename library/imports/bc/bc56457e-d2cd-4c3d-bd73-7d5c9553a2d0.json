@@ -389,8 +389,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        0,
-        -250,
+        1,
+        -249,
         0,
         0,
         0,
@@ -485,7 +485,7 @@
       "array": [
         0,
         0,
-        518.7492168668788,
+        342.0800344948533,
         0,
         0,
         0,
@@ -681,7 +681,9 @@
     "gainScoreAudio": {
       "__uuid__": "55d110b9-bab6-4d9d-9416-03e46904fa35"
     },
-    "testPrefab": null,
+    "testPrefab": {
+      "__uuid__": "d8bdf107-e27b-4ee9-9908-63b53cd9ffd4"
+    },
     "_id": "85vLuREypIcLpNtq4FZZVq"
   }
 ]

@@ -48,23 +48,49 @@ cc.Class({
 
 
     onLoad () {
+        console.log(this);
         // 获取地平面的 y 轴坐标????
         this.groundY = this.ground.y + this.ground.height / 2;
+        this.scorePool = new cc.NodePool('ScoreFX');
+        this.starPool = new cc.NodePool('Star');
         // 初始化计分
         this.spawnNewStar();
     },
 
     spawnNewStar: function() {
         //instantiate 方法的作用是：克隆指定的任意类型的对象，或者从 Prefab 实例化出新节点，返回值为 Node 或者 Object
-        let newStar = cc.instantiate(this.starPrefab);
+        let newStar = null;
+        if (this.starPool.size() > 0) {
+            newStar = this.starPool.get();
+        } else {
+            newStar = cc.instantiate(this.starPrefab);
+        }
         this.node.addChild(newStar);
         newStar.setPosition(this.getNewStarPosition());
         // 在星星组件上暂存 Game 对象的引用
         newStar.getComponent('Star').game = this;
-
+        console.log(' newStar.getComponent(\'Star\')', newStar.getComponent('Star'));
         this.starDuration = this.minStarDuration + Math.random()*(this.maxStarDuration - this.minStarDuration);
         this.timer = 0;
+
     },
+    // 生成得分
+    spawnScoreFX: function(){
+        let fx;
+        if (this.scorePool.size() > 0) {
+            fx = this.scorePool.get();
+            return fx.getComponent('ScoreFX');
+        } else {
+            fx = cc.instantiate(this.testPrefab).getComponent('ScoreFX');
+            fx.init(this);
+            return fx;
+        }
+    },
+    // 销毁得分
+    despawnScoreFX (scoreFX) {
+        this.scorePool.put(scoreFX);
+    },
+
     getNewStarPosition: function () {
         let randX = 0;
         // 根据地平面位置和主角跳跃高度，随机得到一个星星的 y 坐标
@@ -77,14 +103,14 @@ cc.Class({
         return cc.v2(randX, randY);
     },
 
-    gainScore: function () {
+    gainScore: function (pos) {
         this.score += 1;
         this.scoreDisplay.string = 'Score: ' + this.score;
         // 播放特效
-        console.log(this);
-        var fx = cc.instantiate(this.testPrefab).getComponent('Test');
+        let fx = this.spawnScoreFX();
+        console.log('fx', fx);
         this.node.addChild(fx.node);
-        fx.node.setPosition(10, 20);
+        fx.node.setPosition(pos);
         fx.play();
         cc.audioEngine.playEffect(this.gainScoreAudio, false);
     },

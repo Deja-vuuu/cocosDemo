@@ -10,7 +10,6 @@ cc.Class({
 
     init (game) {
         this.game = game;
-        this.anim.getComponent('an').init(this);
     },
 
     despawn () {
